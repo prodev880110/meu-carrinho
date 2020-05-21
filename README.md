@@ -40,8 +40,8 @@ This project consists in two different repositories:
 
 In order to run this project locally you will need to:
 
-* Clone and install the NextJS Application - https://github.com/rafaelbogfreitas/meu-carrinho.
-* Clone and install this repository - https://github.com/danielcspaiva/meu-carrinho-api.
+* Clone and install the NextJS Application - https://github.com/prodev880110/meu-carrinho.
+* Clone and install this repository - https://github.com/prodev880110/meu-carrinho-api.
 
 
 ### Installation
@@ -68,42 +68,3 @@ npm run dev
 
 The project is deployed and can be accessed at https://meu-carrinho.now.sh.
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch
-```sh
-git checkout -b feature/AmazingFeature
-```
-3. Commit your Changes
-```sh
-git commit -m 'Add some AmazingFeature'
-```
-4. Push to the Branch
-```sh
-git push origin feature/AmazingFeature
-```
-5. Open a Pull Request
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Daniel Paiva - [Github](https://github.com/danielcspaiva) - [twitter](https://twitter.com/danielcspaiva) - [email](mailto:danielcspaiva@gmail.com) - [linkedin](https://www.linkedin.com/in/danielcspaiva/)
-
-Rafael Freitas - [Github](https://github.com/rafaelbogfreitas) - [website](https://www.rafaelfreitas.com.br) - [email](mailto:rafaelbogfreitas@gmail.com) - [linkedin](https://www.linkedin.com/in/rafaelborgesfreitas/)
-
-Ricky Almeida - [Github](https://github.com/rickyalmeidadev) - [email](mailto:ricky.almeida.dev@gmail.com) - [linkedin](https://www.linkedin.com/in/rickyalmeidadev/)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Special thanks
-
-* [Joc](https://github.com/jocnjr/library-project-7/commits?author=jocnjr) - Lead Teacher at [Ironhack São Paulo.](https://www.ironhack.com/br)
-* [Vini](https://github.com/vinivibe) - Teaching assistant at [Ironhack São Paulo.](https://www.ironhack.com/br)
-* [Mônica](https://github.com/mdccbranco) - Teaching assistant at [Ironhack São Paulo.](https://www.ironhack.com/br)
-* [Grazi](https://github.com/grazidiandra) - Teaching assistant at [Ironhack São Paulo.](https://www.ironhack.com/br)

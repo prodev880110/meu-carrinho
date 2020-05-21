@@ -23,7 +23,7 @@ export default function Home() {
           'Meu Carrinho',
           'Crie sua loja e administre suas vendas',
           'https://meu-carrinho.now.sh',
-          'https://raw.githubusercontent.com/rafaelbogfreitas/meu-carrinho/master/media/meucarrinho_banner_2.png'
+          'https://github.com/prodev880110/meu-carrinho/media/meucarrinho_banner_2.png'
         )}
       </Head>
       {/* Navbar placeholder */}
@@ -154,44 +154,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer className="main-footer">
-        <p>Desenvolvido por:</p>
-        <div className="devs">
-          <div className="dev">
-            <p>Daniel Paiva</p>
-            <div className="icons">
-              <a href="https://www.linkedin.com/in/danielcspaiva/" target="_blank">
-                <FiLinkedin size={30} color={'#fff'}/>
-              </a>
-              <a href="https://github.com/danielcspaiva" target="_blank">
-                <FiGithub size={30} color={'#fff'}/>
-              </a>
-            </div>
-          </div>
-          <div className="dev">
-            <p>Rafael Freitas</p>
-            <div className="icons">
-              <a href="https://www.linkedin.com/in/rafaelborgesfreitas/" target="_blank">
-                <FiLinkedin size={30} color={'#fff'}/>
-              </a>
-              <a href="https://github.com/rafaelbogfreitas" target="_blank">
-                <FiGithub size={30} color={'#fff'}/>
-              </a>
-            </div>
-          </div>
-          <div className="dev">
-            <p>Ricky Almeida</p>
-            <div className="icons">
-              <a href="https://www.linkedin.com/in/rickyalmeidadev/" target="_blank">
-                <FiLinkedin size={30} color={'#fff'}/>
-              </a>
-              <a href="https://github.com/rickyalmeidadev" target="_blank">
-                <FiGithub size={30} color={'#fff'}/>
-              </a>
-            </div>
-          </div>
-        </div>
-      </footer>
+      
     </>
   );
 }
